@@ -28,10 +28,10 @@ https://cloud.google.com/docs/authentication/getting-started
 - --paragraphs      : paragraph 단위 박스 출력
 - --words           : word 단위 박스 출력
 - --symbols         : symbol 단위 박스 출력
-- -img_path path    : 입력 이미지 파일 위치  
-path 입력 예시
-    1. input/example.jpg
-    2. input/*
-- -output_path path : 결과 파일 출력 위치 설정
+- -img_path [path]    : 입력 이미지 파일 위치  
+path 입력 예시<br>
+    - input/example.jpg <br>
+    - input/*
+- -output_path [path] : 결과 파일 출력 위치 설정
 
 
