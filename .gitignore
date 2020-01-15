@@ -1,0 +1,7 @@
+utility/__pycache__
+*.png
+*.jpg
+*.jpeg
+*.txt
+__pycache__
+
