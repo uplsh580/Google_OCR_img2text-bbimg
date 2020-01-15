@@ -16,7 +16,9 @@ https://cloud.google.com/docs/authentication/getting-started
 ## 빠른 실행
 분석할 이미지를 input 폴더에 넣습니다.
 이후 아래 명령어를 실행합니다. 
+
     python google_ocr_run.py --txt --words
+    
 결과는 ouput 폴더에 출력됩니다.
 
 ## 옵션
