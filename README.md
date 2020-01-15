@@ -1,5 +1,13 @@
 # GOOGLE OCR img2text&bbimg
 
+이 프로젝트는 google ocr을 이용하여 이미지의 텍스트를 분석하고 <br>
+텍스트 파일과 바운딩 박스가 그려진 이미지를 출력합니다.
+
+input image                                 |  ouput image
+:------------------------------------------:|:---------------------------------------------------------:
+<img src="./input/example.jpg" width="300"> | <img src="./output/example_result_words.jpg" width="300">
+
+
 ## 실행환경
 - linux(ubuntu)
 - python3
